@@ -1,0 +1,15 @@
+363a91c93ec463369d1cd4f6d6e1a8b5 *DESCRIPTION
+9926ec727f4a07ad169b514f356fdd02 *LICENSE
+bb59a516bde36369fd908560fa94e55d *NAMESPACE
+3d6809ec7343750b2785a680d0c661e1 *R/colorRamp2.R
+9b473b3f192e02a24641b56be5149d28 *R/random_color.R
+57797530e112accff2c7dc93b52e03d7 *README.md
+bd5a5c798750670c178d1dac39a16caa *build/vignette.rds
+733f6e03b2c0edb3e32a7ceed34b2af7 *inst/doc/colorRamp2.R
+685eb83db418daf810de385814f037f8 *inst/doc/colorRamp2.Rmd
+55c71dd051c3c0df3b268029112012ba *inst/doc/colorRamp2.html
+7d8493ef08ac43005c96c23cdbd1a3cb *man/add_transparency.Rd
+a3b373cd3ca9ac9a95d8255243fc57b4 *man/col2value.Rd
+a418b65c82c8e1eec2484b728c70519e *man/colorRamp2.Rd
+94564a23be9be2db837353807d3ef68d *man/rand_color.Rd
+685eb83db418daf810de385814f037f8 *vignettes/colorRamp2.Rmd
